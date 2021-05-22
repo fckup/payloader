@@ -1,13 +1,10 @@
    # :gem:  &nbsp;  XSS-LOADER TOOLS  &nbsp;  :gem:
 
-<img src="https://i.imgur.com/RvwHNfS.png" width="60%"></img>
-
-
 
 #### Written by Termux Official R1
 All in one tools for **XSS PAYLOAD GENERATOR -XSS SCANNER-XSS DORK FINDER**
 
-Instagram: [TMRSWRR](https://www.instagram.com/termuxhacking11/)
+Instagram: [TERMUX OFFICIAL R1](https://www.instagram.com/termuxhacking11/)
 ##  :camera: Screenshots  :camera:
 
 <img src="https://i.imgur.com/mnRkb1b.png" width="32%"></img>
