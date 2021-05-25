@@ -6,13 +6,7 @@ All in one tools for **XSS PAYLOAD GENERATOR -XSS SCANNER-XSS DORK FINDER**
 
 Instagram: [TERMUX OFFICIAL R1](https://www.instagram.com/termuxhacking11/)
 ##  :camera: Screenshots  :camera:
-
-<img src="https://i.imgur.com/mnRkb1b.png" width="32%"></img>
-<img src="https://i.imgur.com/8vdFrl6.png" width="32%"></img>
-<img src="https://i.imgur.com/E7t30Cf.png" width="32%"></img>
-<img src="https://i.imgur.com/jMGDl5C.png" width="32%"></img>
-<img src="https://i.imgur.com/fwAETe2.png" width="32%"></img>
-<img src="https://i.imgur.com/jmBmGH1.png" width="32%"></img>
+[![Screenshot-at-2021-05-25-12-49-38.png](https://i.postimg.cc/2jMK5n8r/Screenshot-at-2021-05-25-12-49-38.png)](https://postimg.cc/8sdHKJ60)
 
 
 
