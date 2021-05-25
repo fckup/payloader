@@ -6,7 +6,7 @@ All in one tools for **XSS PAYLOAD GENERATOR -XSS SCANNER-XSS DORK FINDER**
 
 Instagram: [TERMUX OFFICIAL R1](https://www.instagram.com/termuxhacking11/)
 ##  :camera: Screenshots  :camera:
-[![Screenshot-at-2021-05-25-12-49-38.png](https://i.postimg.cc/2jMK5n8r/Screenshot-at-2021-05-25-12-49-38.png)](https://postimg.cc/8sdHKJ60)
+[![Screenshot](https://i.postimg.cc/SRKbp94H/Screenshot-at-2021-05-25-13-57-09.png)](https://postimg.cc/vgCNrccv)
 
 
 
@@ -31,7 +31,7 @@ Instagram: [TERMUX OFFICIAL R1](https://www.instagram.com/termuxhacking11/)
 ### Installation with requirements.txt
 
 ```bash
-git clone https://github.com/termuxhacking-R1/XSS-loader/
+git clone https://github.com/termuxhacking-R1/XSS-loader
 cd XSS-loader
 pip3 install -r requirements.txt
 ```
